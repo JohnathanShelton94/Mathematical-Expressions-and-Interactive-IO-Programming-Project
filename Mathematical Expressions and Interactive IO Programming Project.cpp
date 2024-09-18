@@ -14,7 +14,7 @@ int main() {
     cout << "Enter the principal amount: $";
     cin >> principal;
 
-    cout << "Enter the annual interest rate (as a percentage, e.g., 4.25 for 4.25%): ";
+    cout << "Enter the annual interest rate (as a percentage, e.g., 10 or 10.5 for 10% or 10.5%): ";
     cin >> rate;
 
     cout << "Enter the number of times the interest is compounded per year: ";
